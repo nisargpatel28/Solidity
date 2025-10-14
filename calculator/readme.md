@@ -1,6 +1,6 @@
-# Ultimate Solidity Smart Contract 
+# Solidity Smart Contract 
 
-Welcome to the Ultimate Solidity Smart Contract Course for Complete Beginners! My goal here is to teach you everything you need to know to help you <ins>kickstart your career as a Solidity Developer</ins> 🚀
+Solidity Smart Contracts 🚀
 
 In this exercise, included:
 
