@@ -6,7 +6,7 @@ pragma solidity ^0.8.0;
 // 2. Create a mapping between user and tweet ✅
 // 3. Add function to create a tweet and save it in mapping ✅
 // 4. Create a function to get Tweet ✅
-// 5. Add array of tweets ✅
+// 5. Add array of tweets. ✅
 
 contract Twitter {
 
