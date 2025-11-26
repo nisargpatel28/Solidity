@@ -1,4 +1,4 @@
-⚡ Solidity Smart Contracts Repository
+#⚡ Solidity Smart Contracts Repository
 
 A curated collection of Solidity smart contracts, DApp integrations, and hands-on blockchain development projects.
 Built for learning, experimenting, and showcasing real-world Web3 patterns. 🚀
@@ -12,7 +12,7 @@ A complete Calculator Contract
 
 Error handling with require, modifiers, and events
 
-🧱 Smart Contract Components
+## 🧱 Smart Contract Components
 
 Practical examples of:
 
@@ -26,7 +26,7 @@ Event Emitters
 
 Custom Modifiers
 
-🐦 Twitter-Style Smart Contract
+## 🐦 Twitter-Style Smart Contract
 
 A mini social-platform contract featuring:
 
@@ -38,7 +38,7 @@ Likes & interactions
 
 Storage optimization patterns
 
-🌐 DApp Integration
+## 🌐 DApp Integration
 
 Frontend connection to the Twitter contract
 
@@ -48,7 +48,7 @@ Transaction handling
 
 Reading/writing blockchain data from UI
 
-🧬 Advanced Solidity Concepts
+## 🧬 Advanced Solidity Concepts
 
 Contract inheritance
 
@@ -58,7 +58,7 @@ Looping patterns & gas considerations
 
 Security best practices (require checks, modifiers, validations)
 
-🏁 Final Full-Stack Project
+## 🏁 Final Full-Stack Project
 
 A feature-rich version of the Twitter contract including:
 
@@ -70,7 +70,7 @@ Enhanced DApp implementation
 
 Clean UI integration & state management
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Solidity
 
@@ -82,7 +82,7 @@ MetaMask
 
 React (for DApp UI)
 
-🚀 Why This Repository?
+## 🚀 Why This Repository?
 
 This collection was built to demonstrate:
 
