@@ -1,4 +1,4 @@
-#⚡ Solidity Smart Contracts Repository
+## ⚡ Solidity Smart Contracts Repository
 
 A curated collection of Solidity smart contracts, DApp integrations, and hands-on blockchain development projects.
 Built for learning, experimenting, and showcasing real-world Web3 patterns. 🚀
