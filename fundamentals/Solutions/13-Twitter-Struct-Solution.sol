@@ -5,6 +5,7 @@ pragma solidity ^0.8.0;
 // 1️⃣ Define a Tweet Struct with author, content, timestamp, likes
 // 2️⃣ Add the struct to array
 // 3️⃣ Test Tweets
+// Added contract Twitter
 
 contract Twitter {
 
