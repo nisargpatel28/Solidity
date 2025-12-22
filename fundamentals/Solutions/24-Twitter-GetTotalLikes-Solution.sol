@@ -76,7 +76,22 @@ contract Twitter {
         emit TweetLiked(msg.sender, author, id, tweets[author][id].likes);
     }
 
-    
+    function unlikeTweet(address author, uint256 id) external {
+        require(tweets[author][id].id == id, "TWEET DOES NOT EXIST");
+        require(tweets[author][id].likes > 0, "TWEET HAS NO LIKES");
+        
+        tweets[author][id].likes--;
+
+        emit TweetUnliked(msg.sender, author, id, tweets[author][id].likes );
+    }
+
+    function getTweet( uint _i) public view returns (Tweet memory) {
+        return tweets[msg.sender][_i];
+    }
+
+    function getAllTweets(address _owner) public view returns (Tweet[] memory ){
+        return tweets[_owner];
+    }
 
 }
 
